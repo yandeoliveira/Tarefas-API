@@ -97,6 +97,6 @@ Para mais informações entre em contato [yansantos2410@gmail.com].
 Desenvolvedor: Yan de Oliveira.
 
 ## Informações adicionais
-Código fonte do aplicativo e executavel se encontram em outra branch do repositório.
+Código fonte da API se encontra em outra branch do repositório.
 
 
