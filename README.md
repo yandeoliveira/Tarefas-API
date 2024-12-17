@@ -92,8 +92,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
 ## Contato
-Para mais informações entre em contato [yansantos2410@gmail.com]
-Desenvolvedor: Yan de Oliveira
+Para mais informações entre em contato [yansantos2410@gmail.com].
+Desenvolvedor: Yan de Oliveira.
 
 ## Informações adicionais
 Código fonte do aplicativo e executavel se encontram em outra branch do repositório.
