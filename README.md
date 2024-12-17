@@ -19,7 +19,7 @@ Esta é uma API desenvolvida em Python usando FastAPI para a criação, exclusã
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/Tarefas_API.git
+   git clone https://github.com/yandeoliveira/Tarefas-API.git
    cd Tarefas_API
 Crie um ambiente virtual e ative-o:
 ```
